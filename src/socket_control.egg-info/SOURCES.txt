@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/socket_control.py
+src/socket_control.egg-info/PKG-INFO
+src/socket_control.egg-info/SOURCES.txt
+src/socket_control.egg-info/dependency_links.txt
+src/socket_control.egg-info/requires.txt
+src/socket_control.egg-info/top_level.txt
